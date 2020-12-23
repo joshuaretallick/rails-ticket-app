@@ -28,6 +28,8 @@ I want to buy a ticket.
 
 Trello board : https://trello.com/b/2bF7hr55/rails-ticketing-app
 
+Wireframe screenshots : https://drive.google.com/drive/folders/1uN3LP4wGunOo7gemHuke5EO3WlyV00YM?usp=sharing
+
 ![entity](entity.png)
 
 
